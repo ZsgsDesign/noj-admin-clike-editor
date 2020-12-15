@@ -3,7 +3,7 @@
 namespace ZsgsDesign\ClikeEditor;
 
 use Encore\Admin\Form\Field;
-use Jxlwqq\CodeMirror\CodeMirror;
+use ZsgsDesign\CodeMirror\CodeMirror;
 
 abstract class Editor extends Field
 {
